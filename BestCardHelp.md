@@ -84,7 +84,7 @@ No.
 
 Best Card never asks for your account login info, and therefore never logs into your financial accounts.
 
-You enter reward details yourself (time period and value). But the app has the types of rewards and benefits entered so you just find it in a menu.
+You enter reward details yourself (time period and value). But the app has the types of rewards and benefits entered so you just find them in a menu.
 
 ---
 
