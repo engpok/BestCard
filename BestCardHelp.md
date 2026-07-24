@@ -2,12 +2,22 @@
 
 Welcome to **Best Card**.
 
-Best Card helps you quickly determine which of your credit cards offers the best rewards and benefits before making a purchase. Here's the big picture:
+Best Card helps you quickly determine which of your credit cards offers the best rewards and benefits before making a purchase. Here's the **big picture**:
  - I've preloaded reward categories like gas, restaraunts, etc. and types of card benefits (no foreign fees, rental car insurance, etc) and ATM networks. It's easy to add more if you need to.
  - The app doesn't look up your rewards, card benefits or ATM netowrks... you'll look those up and enter them:
-   - You'll enter the reward time periods and values by hand, but you get a category from a menu and add the value
+   - You'll enter the reward time periods and values by hand, but you get a category from a menu and add the value. Note that some rewards are **Permanent** and some are **Dated**.
    - You'll also get the card benefits from a menu
- - Rearrange the list of rewards and card benefits (in the ##Features## tab
+ - Rearrange the list (by dragging categories) of rewards and card benefits (in the **Features** tab) to put your top priority rewards at the top of the list because the widgets can't show all of the rewards. Note that benefits are grouped towards the bottom of the list in the **Features** tab.
+ - The **Cards** tab is where you create a new card record and then setup each of the card's rewards and benefits.
+ - The **Dashboard** tab is where you'll see:
+   -  The best overall card for all of the rewards you entered.
+   -  The best card in each category of rewards
+   -  Which cards have which benefits
+   -  The ATMs for each card
+-  You can rearrange the sections above by rearranging the section titles in the **Dashboard Order** section. So, if benefits are more important while traveling they can be at the top of the list.
+-  You can backup **everything** in the app and/or **individual cards**. If someone else has setup the same card that you have (Discover, Chase, etc), you can import their card backup instead of entering it all yourself.
+-  Put the Best Cards widget on your Home Screen to get the fastesdt view of a summary of the Dashboard tab.
+-  The app will tell you when rewards are expiring.
 
 ---
 
@@ -72,9 +82,9 @@ For complete details, see the Privacy Policy.
 
 No.
 
-Best Card never logs into your financial accounts.
+Best Card never asks for your account login info, and therefore never logs into your financial accounts.
 
-You enter reward information yourself.
+You enter reward details yourself (time period and value). But the app has the types of rewards and benefits entered so you just find it in a menu.
 
 ---
 
