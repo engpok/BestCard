@@ -2,7 +2,12 @@
 
 Welcome to **Best Card**.
 
-Best Card helps you quickly determine which of your credit cards offers the best rewards and benefits before making a purchase.
+Best Card helps you quickly determine which of your credit cards offers the best rewards and benefits before making a purchase. Here's the big picture:
+ - I've preloaded reward categories like gas, restaraunts, etc. and types of card benefits (no foreign fees, rental car insurance, etc) and ATM networks. It's easy to add more if you need to.
+ - The app doesn't look up your rewards, card benefits or ATM netowrks... you'll look those up and enter them:
+   - You'll enter the reward time periods and values by hand, but you get a category from a menu and add the value
+   - You'll also get the card benefits from a menu
+ - Rearrange the list of rewards and card benefits (in the ##Features## tab
 
 ---
 
