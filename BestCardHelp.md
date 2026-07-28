@@ -16,7 +16,7 @@ Best Card helps you quickly determine which of your credit cards offers the best
    -  The ATMs for each card
 -  You can rearrange the sections above by rearranging the section titles in the **Dashboard Order** section. So, if benefits are more important while traveling they can be at the top of the list.
 -  You can backup **everything** in the app and/or **individual cards**. If someone else has setup the same card that you have (Discover, Chase, etc), you can import their card backup instead of entering it all yourself.
--  Put the Best Cards widget on your Home Screen to get the fastesdt view of a summary of the Dashboard tab.
+-  Put the Best Cards widget on your Home Screen to get the fastest view of a summary of the Dashboard tab.
 -  The app will tell you when rewards are expiring.
 
 ---
