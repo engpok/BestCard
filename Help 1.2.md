@@ -63,6 +63,15 @@ You can create backup files and restore them later if you change devices or want
 
 ---
 
+# What's new in version 1.2
+
+Bug fix: 
+ - in version 1.1 the widgets would not update automatically from day to day. So, if a rotating reward had expired, the widget would still show it active until the app was launched.
+ - in this version, the widgets automatically reflect reward start and end dates even if the app is not launched.
+
+---
+
+
 # Privacy
 
 Best Card:
@@ -111,7 +120,5 @@ Questions, suggestions, or bug reports are welcome.
 **Email:** CellAnalysis1@gmail.com
 
 ---
-
-Best Card Version 1.0
 
 © 2026 Richard Pokrass
