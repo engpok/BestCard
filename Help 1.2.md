@@ -5,16 +5,16 @@ Welcome to **Best Card**.
 Best Card helps you quickly determine which of your credit cards offers the best rewards and benefits before making a purchase. Here's the **big picture**:
  - I've preloaded reward categories like gas, restaurants, etc. and types of card benefits (no foreign fees, rental car insurance, etc) and ATM networks. It's easy to add more if you need to. You'll be assigning some of these features to your cards.
  - The app doesn't look up your rewards, card benefits or ATM netowrks... you'll look those up and enter them:
-   - You'll enter the reward time periods and values by hand, but you get a category from a menu and add the value. Note that some rewards are **Permanent** and some are **Dated**.
-   - You'll also get the card benefits from a menu
- - Rearrange the list (by dragging categories) of rewards and card benefits (in the **Features** tab) to put your top priority rewards at the top of the list because the widgets can't show all of the rewards. Note that benefits are grouped towards the bottom of the list in the **Benefits** section.
+   - You'll enter the reward time periods and values by hand, and enter the reward type by selecting from a pre-defined menu (ie. Gas, or Restaurant), and then enter the value of the reward (ie. 5%). Note that some rewards are **Permanent** and some are **Dated**.
+   - You'll also enter the card benefits (ie. No Foreign Transaction Fees, travel insurance, etc.) from a pre-defined menu of benefits
+ - In the **Features** tab, drag the highest priority Rewards and Benefits to the top of the list to tell the app which rewards and Benefits are most important. Note that benefits are grouped towards the bottom of the list in the **Benefits** section. Add more Reward or Benefit categories if you don't find your card's listed.
  - The **Cards** tab is where you create a new card record and then setup each of the card's rewards and benefits.
  - The **Dashboard** tab is where you'll see:
    -  The best overall card for all of the rewards you entered.
    -  The best card in each category of rewards
    -  Which cards have which benefits
    -  The ATMs for each card
--  You can rearrange the sections above by rearranging the section titles in the **Dashboard Order** section. So, if benefits are more important while traveling they can be at the top of the list.
+-  You can rearrange the dashboard sections above by dragging the section titles in the **Dashboard Order** section. So, if benefits are more important while traveling they can be at the top of the list.
 -  You can backup **everything** in the app and/or **individual cards**. If someone else has setup the same card that you have (Discover, Chase, etc), you can import their card backup instead of entering it all yourself.
 -  Put the Best Cards widget on your Home Screen to get the fastest view of a summary of the Dashboard tab.
 -  The app will tell you when rewards are expiring.
@@ -23,11 +23,15 @@ Best Card helps you quickly determine which of your credit cards offers the best
 
 # Getting Started
 
-1. Add each of your credit cards.
-2. Enter any rotating rewards offered by each card.
-3. Enter permanent rewards and card benefits.
-4. Add ATM network information, if applicable.
-5. Open the Dashboard to see which card offers the best rewards for each purchase category.
+1. Add each of your credit cards in the **Cards** tab.
+2. For each card:
+ - Enter any rotating rewards offered by each card.
+ - Enter permanent rewards and card benefits.
+ - Add ATM network information, if applicable.
+3. Rearrange the Reward and Benefit categories in the **Features** tab to drag the most important features to the top of the list.
+4. Open the Dashboard to see which card offers the best rewards for each purchase category.
+5. Edit the iPhone's Home Screen to display the  Best Card widget (select the approapriate widget size for your needs).
+
 
 ---
 
